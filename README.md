@@ -62,4 +62,6 @@ A basic starter code version has been included in this repo.
 	2. Return status code 422 if there is not enough information to create or add a Candy
 3. Refactor the routes in a controller file.
 
-
+## Licensing
+All content is licensed under a CC­BY­NC­SA 4.0 license.
+All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
